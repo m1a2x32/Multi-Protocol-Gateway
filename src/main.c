@@ -15,8 +15,8 @@
 #include <zephyr/net/net_mgmt.h>
 #include <zephyr/net/wifi_mgmt.h>
 
-#define MYSSID "Europalaan-4C"
-#define MYPSK "56434323"
+#define MYSSID "myssid"
+#define MYPSK "mypsk"
 
 LOG_MODULE_REGISTER(mainThread, CONFIG_LOG_DEFAULT_LEVEL);
 
